@@ -2,4 +2,5 @@ Bogota
 Medellin
 Cali
 Cartagena
+Cartagena
 Santamarta
